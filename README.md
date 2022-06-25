@@ -14,6 +14,9 @@ Demo project for Node and GraphQL
 
 <br />
 
+If you would like to see this project run through React, please visit this [repo](https://github.com/ASproson/react-graphql-apollo)
+
+
 ## GraphQL Queries
 
 Get all users:
